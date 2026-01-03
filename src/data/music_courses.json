@@ -1,0 +1,74 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+      "price": 119.99,
+      "instructor": "Emily Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Master advanced guitar techniques including solos, scales, and improvisation.",
+      "price": 149.99,
+      "instructor": "Alex Johnson",
+      "isFeatured": true,
+      "image": "/courses/advanced-guitar.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand the building blocks of music including scales, chords, and harmony.",
+      "price": 89.99,
+      "instructor": "Sarah Williams",
+      "isFeatured": false,
+      "image": "/courses/music-theory.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Drums for Beginners",
+      "slug": "drums-for-beginners",
+      "description": "Learn rhythm, timing, and basic drum patterns in this beginner-friendly course.",
+      "price": 109.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/courses/drums.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Vocal Training Basics",
+      "slug": "vocal-training-basics",
+      "description": "Improve your singing voice with proper breathing, pitch control, and vocal exercises.",
+      "price": 129.99,
+      "instructor": "Laura Green",
+      "isFeatured": true,
+      "image": "/courses/vocals.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Digital Music Production",
+      "slug": "digital-music-production",
+      "description": "Learn how to create, mix, and produce music using modern digital tools and software.",
+      "price": 179.99,
+      "instructor": "David Lee",
+      "isFeatured": true,
+      "image": "/courses/music-production.jpg"
+    }
+  ]
+}
